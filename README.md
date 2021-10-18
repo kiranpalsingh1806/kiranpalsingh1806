@@ -55,15 +55,9 @@
 <a href="https://github.com/kiranpalsingh1806">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranpalsingh1806&theme=light&hide_langs_below=1" />
 </a>
+<br/>
 <a href="https://github.com/kiranpalsingh1806">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranpalsingh1806&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-<a href="https://github.com/kiranpalsingh1806/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranpalsingh1806&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/kiranpalsingh1806/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranpalsingh1806&repo=VelocityX&theme=light" />
 </a>
 
 <div align="center">
