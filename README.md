@@ -1,4 +1,4 @@
-## Hola, I'm [Kiranpal Singh!](https://pawan.live) 👋
+## Hola, I'm [Kiranpal Singh!](https://google.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpalsingh1806&label=Views&color=blue&style=plastic" alt="kiranpalsingh" /> </p>
 
@@ -36,10 +36,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 2 hours listening to songs every day.
 
-[![Twitter: kiranpalsingh1806](https://img.shields.io/twitter/follow/kiranpalsingh1806?style=social)](https://twitter.com/kiranpalsingh1806)
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
 
 **Languages and Tools:**  
