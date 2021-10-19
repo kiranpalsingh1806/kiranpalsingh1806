@@ -31,10 +31,7 @@
 - 🔭 I’m currently working on [my skills](https://google.com/).
 - 🌱 I’m currently learning more about development.
 - 🤔 I’m looking forward for more contribution in 2021.
-- 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @kiranpalsingh1806](https://twitter.com/kiranpalsingh1806)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 2 hours listening to songs every day.
 
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
@@ -45,7 +42,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+
+**My Projects:**  
+### Will update soon!!
 
 <br/>
 <a href="https://github.com/kiranpalsingh1806">
