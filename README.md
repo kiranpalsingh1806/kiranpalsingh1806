@@ -36,6 +36,8 @@
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
+
 
 **Languages and Tools:**  
 
