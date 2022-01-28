@@ -51,6 +51,8 @@
 <a href="https://github.com/kiranpalsingh1806">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranpalsingh1806&show_icons=true&theme=light&line_height=27" alt="Kiranpal's github stats"/>
 </a>
+
+
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
 
 <div align="center">
