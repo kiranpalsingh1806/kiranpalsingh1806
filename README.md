@@ -36,8 +36,6 @@
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
-
 
 **Languages and Tools:**  
 
@@ -53,6 +51,8 @@
 <a href="https://github.com/kiranpalsingh1806">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranpalsingh1806&show_icons=true&theme=light&line_height=27" alt="Kiranpal's github stats"/>
 </a>
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
 
 <div align="center">
 
