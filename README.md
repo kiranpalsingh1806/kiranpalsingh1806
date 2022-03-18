@@ -25,7 +25,7 @@
 </a>
 
 <br/>
-<br/>
+<br/> 
 
 
 - 🔭 I’m currently working on [my skills](https://google.com/).
@@ -45,7 +45,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 ### My Projects
-**Will update soon**
+**Movie Explorer App**
+**Blog Website Firebase**
+**Online Wallet**
 
 <br/>
 <a href="https://github.com/kiranpalsingh1806">
