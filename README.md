@@ -21,6 +21,8 @@
 <br/>
 <br/> 
 
+## All my projects are [here](https://kiranpalsingh-projects.netlify.app/)
+
 
 - 🔭 I’m currently working on [my skills](https://google.com/).
 - 🌱 I’m currently learning more about development.
