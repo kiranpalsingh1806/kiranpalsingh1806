@@ -21,17 +21,16 @@
 <br/>
 <br/> 
 
+
+- 🔭 I’m currently working on [my skills](https://kiranpalsingh-projects.netlify.app/).
+- 🌱 I’m currently doing full stack development.
+- 🤔 I’m looking forward for more contribution in 2022.
+- 📫 How to reach me: [LinkedIn - @kiranpalsingh1806](https://www.linkedin.com/in/kiranpalsingh1806/)
+
 ## All my projects are [here](https://kiranpalsingh-projects.netlify.app/)
-### My Projects
 **Movie Explorer App**  <br/>
 **Blog Website Firebase**  <br/>
 **Online Wallet**  <br/>
-
-
-- 🔭 I’m currently working on [my skills](https://google.com/).
-- 🌱 I’m currently learning more about development.
-- 🤔 I’m looking forward for more contribution in 2021.
-- 📫 How to reach me: [Twitter - @kiranpalsingh1806](https://twitter.com/kiranpalsingh1806)
 
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
