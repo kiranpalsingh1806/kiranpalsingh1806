@@ -52,10 +52,12 @@
 
 ### My LeetCode Stats
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
+<div align="center">
 ### My Languages
 <a>
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranpalsingh1806&show_icons=true&locale=en&layout=compact&theme=nord" alt="kiranpalsingh1806" width="50%"/>
  </a>
+  </div>
  <br>
 
 <div align="center">
