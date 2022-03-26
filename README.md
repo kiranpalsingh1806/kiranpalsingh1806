@@ -37,11 +37,13 @@
 
 
 **Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+- HTML
+- CSS
+- Javascript
+- ReactJS
+- NodeJS
+- PHP
+- Laravel
 
 <br/>
 <a href="https://github.com/kiranpalsingh1806">
@@ -52,8 +54,9 @@
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
 ### My Languages
 <a>
-   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranpalsingh1806&show_icons=true&locale=en&layout=compact&theme=nord" alt="kiranpalsingh1806" width="45%"/>
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranpalsingh1806&show_icons=true&locale=en&layout=compact&theme=nord" alt="kiranpalsingh1806" width="50%"/>
  </a>
+ <br>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
