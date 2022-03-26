@@ -50,7 +50,9 @@
 
 ### My LeetCode Stats
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
-
+<a>
+   <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=do-va&show_icons=true&locale=en&layout=compact&theme=nord" alt="do-va" width="42%"/>
+ </a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
