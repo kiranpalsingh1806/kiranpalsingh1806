@@ -29,7 +29,7 @@
 - 🌱 I’m active participant in Competitive Coding Contests.
 - 🤔 I’m looking forward for developing cutting edge websites.
 
-## All my projects are [here](https://kiranpalsingh-projects.netlify.app/)
+## My projects [here](https://kiranpalsingh-projects.netlify.app/)
 - Movie Explorer App
 - Instagram Clone
 - Route Finder App
