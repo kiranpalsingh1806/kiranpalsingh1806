@@ -1,6 +1,6 @@
 ## Hello, I'm [Kiranpal Singh!](https://google.com) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpalsingh1806&label=Views&color=blue&style=plastic" alt="kiranpalsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpalsingh1806&label=Views&color=blue&style=for-the-badge" alt="kiranpalsingh" /> </p>
 
 <a href="https://linkedin.com/in/kiranpalsingh1806">
   <img align="left" alt="Kiranpal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
