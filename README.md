@@ -38,10 +38,6 @@
 - Climate News API
 - News Scrapper
 
-- [x] #Do this
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
 
