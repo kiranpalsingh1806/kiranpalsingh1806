@@ -26,11 +26,17 @@
 - 🌱 I’m currently doing full stack development.
 - 🤔 I’m looking forward for more contribution in 2022.
 - 📫 How to reach me: [LinkedIn - @kiranpalsingh1806](https://www.linkedin.com/in/kiranpalsingh1806/)
+- 🌱 I’m active participant in Competitive Coding Contests.
+- 🤔 I’m looking forward for developing cutting edge websites.
 
 ## All my projects are [here](https://kiranpalsingh-projects.netlify.app/)
-**Movie Explorer App**  <br/>
-**Blog Website Firebase**  <br/>
-**Online Wallet**  <br/>
+- Movie Explorer App
+- Instagram Clone
+- Route Finder App
+- Firebase Blog Website
+- Actor API
+- Climate News API
+- News Scrapper
 
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
