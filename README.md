@@ -50,11 +50,6 @@
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
-## ⚡ Recent GitHub Activity
-<br/>
- <img alt="Kiranpal Singh's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kiranpalsingh1806&custom_title=Kiranpal's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-<br/>
-
 
 **Languages and Tools:**  
 - HTML
