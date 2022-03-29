@@ -41,6 +41,18 @@
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
 
+## 🔥 Streak Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kiranpalsingh1806&theme=tokyonight_duo&hide_border=true" alt="kiranpalsingh1806" />
+  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
+</p>
+
+## ⚡ Recent GitHub Activity
+<br/>
+ <img alt="Kiranpal Singh's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kiranpalsingh1806&custom_title=Kiranpal's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<br/>
+
 
 **Languages and Tools:**  
 - HTML
