@@ -1,6 +1,7 @@
 ## Hello, I'm [Kiranpal Singh!](https://google.com) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&multiline=true&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpalsingh1806&label=Views&color=blue&style=plastic" alt="kiranpalsingh" /> </p>
 
 <a href="https://linkedin.com/in/kiranpalsingh1806">
