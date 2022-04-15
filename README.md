@@ -22,7 +22,7 @@
 - Codeforces : Newbie 🤔
 - AtCoder : 9 Kyu 
 
-#### My LeetCode Stats
+My LeetCode Stats
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
 
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
@@ -43,13 +43,10 @@
 
 
 **Languages and Tools:**  
-- HTML
-- CSS
-- Javascript
-- ReactJS
-- NodeJS
-- PHP
-- Laravel
+- HTML, CSS and Javascript
+- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+- PHP and Laravel
+- Learning Django and Angular
 
 <br/>
 <a href="https://github.com/kiranpalsingh1806">
