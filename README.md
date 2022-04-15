@@ -31,6 +31,11 @@
 - 🌱 I’m active participant in Competitive Coding Contests.
 - 🤔 I’m looking forward for developing cutting edge websites.
 
+## Data Structures and Algorithms [here](https://www.google.com)
+- LeetCode : 300+ Problems
+- CodeChef : 3 Star (Highest Rating - 1697)
+- AtCoder : 9 Kyu 
+
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
 - Movie Explorer App
 - Instagram Clone
