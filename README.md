@@ -24,16 +24,17 @@
 <br/> 
 
 
-- 🔭 I’m currently working on [my skills](https://kiranpalsingh-projects.netlify.app/).
-- 🌱 I’m currently doing full stack development.
-- 🤔 I’m looking forward for more contribution in 2022.
-- 📫 How to reach me: [LinkedIn - @kiranpalsingh1806](https://www.linkedin.com/in/kiranpalsingh1806/)
-- 🌱 I’m active participant in Competitive Coding Contests.
-- 🤔 I’m looking forward for developing cutting edge websites.
+- Currently working on 🎓 [my skills](https://kiranpalsingh-projects.netlify.app/).
+- Experienced making website with 🪐 MERN Stack.
+- Looking forward for more contribution 🔥 in 2022.
+- Enjoy doing 🏆 Competitive Programming .
+- I like playing ⚽ Football.
 
-## Data Structures and Algorithms [here](https://www.google.com)
-- LeetCode : 300+ Problems
-- CodeChef : 3 Star (Highest Rating - 1697)
+## Competitive Programming [here](https://www.google.com)
+- LeetCode : 300+ Problems (Data Structures and Algorithms)
+- Stopstalk Profile : All CP Profiles
+- CodeChef : 3 Star ⭐⭐⭐ (Highest Rating - 1697)
+- Codeforces : Newbie 🤔
 - AtCoder : 9 Kyu 
 
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
