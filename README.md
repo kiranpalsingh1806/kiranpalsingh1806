@@ -5,11 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpalsingh1806&label=Views&color=blue&style=plastic" alt="kiranpalsingh" /> </p>
 <br/> 
 
-
-- Currently working on 🎓 [my skills](https://kiranpalsingh-projects.netlify.app/).
 - Experienced making website with 🪐 MERN Stack.
+- - Enjoy doing 🏆 Competitive Programming.
+- Currently working on 🎓 [my skills](https://kiranpalsingh-projects.netlify.app/).
 - Looking forward for more contribution 🔥 in 2022.
-- Enjoy doing 🏆 Competitive Programming .
 - I like playing ⚽ Football.
 
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
