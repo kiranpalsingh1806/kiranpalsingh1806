@@ -37,7 +37,7 @@
 - Codeforces : Newbie 🤔
 - AtCoder : 9 Kyu 
 
-### My LeetCode Stats
+#### My LeetCode Stats
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
 
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
