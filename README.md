@@ -3,12 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpalsingh1806&label=Views&color=blue&style=plastic" alt="kiranpalsingh" /> </p>
-
-
-[![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
-[![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
-
-<br/>
 <br/> 
 
 
@@ -17,6 +11,9 @@
 - Looking forward for more contribution 🔥 in 2022.
 - Enjoy doing 🏆 Competitive Programming .
 - I like playing ⚽ Football.
+
+[![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
+[![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
 
 ## Competitive Programming [here](https://www.google.com)
 - LeetCode : 300+ Problems (Data Structures and Algorithms)
