@@ -37,6 +37,9 @@
 - Codeforces : Newbie 🤔
 - AtCoder : 9 Kyu 
 
+### My LeetCode Stats
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
+
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
 - Movie Explorer App
 - Instagram Clone
@@ -70,9 +73,6 @@
 <a href="https://github.com/kiranpalsingh1806">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranpalsingh1806&show_icons=true&theme=light&line_height=27" alt="Kiranpal's github stats"/>
 </a>
-
-### My LeetCode Stats
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
 
 <div align="center">
 Show some ❤️ by starring some of the repositories!
