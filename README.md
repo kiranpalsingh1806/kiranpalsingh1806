@@ -14,6 +14,8 @@
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
 
+___  
+
 ## Competitive Programming [here](https://www.google.com)
 - LeetCode : 300+ Problems (Data Structures and Algorithms)
 - Stopstalk Profile : All CP Profiles
