@@ -24,7 +24,7 @@ ___
 - AtCoder : 9 Kyu 
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
-
+--- 
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
 - Movie Explorer App
 - Instagram Clone
@@ -33,6 +33,8 @@ ___
 - Actor API
 - Climate News API
 - News Scrapper
+
+---  
 
 ## 🔥 Streak Stats
 
