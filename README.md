@@ -31,6 +31,7 @@ ___
 - Movie Explorer App
 - Instagram Clone
 - Route Finder App
+- Weather App
 - Firebase Blog Website
 - Actor API
 - Climate News API
