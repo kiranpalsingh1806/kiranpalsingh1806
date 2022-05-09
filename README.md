@@ -29,9 +29,9 @@ ___
 ___
 
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
-- Movie Explorer App
+- Movie Explorer App   
 Your go-to website to discover trending movies and tv series sorted by rating and genres along with cast and crew of movie. Completely responsive website across all devices made with Material UI. Use of React Hooks, Context API and React Router DOM
-- Instagram Clone
+- Instagram Clone   
 The Clone of Instagram app made with Firebase which uses Firebase Authentication and Firestore Datastore. User can post pictures and comment on other posts. Material UI, Context API and React Hooks 
 - Route Finder App
 Usage of Tom Tom API which is used by Uber and other major giants. Concept of Matrix Routing which helps in reaching destination in minimum possible time.
