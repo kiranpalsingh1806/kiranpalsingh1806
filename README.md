@@ -30,10 +30,9 @@ ___
 
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
 - Movie Explorer App
-  - Responsive website
-  - React Hooks and Context API
-  - MovieDB Database 
-  - 
+  - Your go-to website to discover trending movies and tv series sorted by rating and genres along with cast and crew of movie.
+  - Completely responsive website across all devices made with Material UI.
+  - Use of React Hooks, Context API and React Router DOM
 - Instagram Clone
 - Route Finder App
 - Weather App
