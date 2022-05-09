@@ -18,7 +18,7 @@ ___
 
 ## Competitive Programming [here](https://www.google.com)
 - LeetCode : 300+ Problems (Data Structures and Algorithms)
-- Stopstalk Profile : All CP Profiles[here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
+- Stopstalk Profile : All CP Profiles [here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
 - LeetCode : 3 Star ⭐⭐⭐ (Highest Rating - 1542)
 - Codeforces : Newbie (Highest Rating - 1081)
 - CodeChef : 3 Star ⭐⭐⭐ (Highest Rating - 1697)
@@ -65,4 +65,5 @@ ___
 
 ## I love Audiobooks 🎧
 - How to Build Self-Discipline (Martin Meadows)
+- Sherlock Holmes Adventure (Sir Arthur Conan Doyle)
 - APJ Abdul Kalam Biography in Hindi (Gulzar)
