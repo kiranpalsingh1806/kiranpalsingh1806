@@ -18,9 +18,10 @@ ___
 
 ## Competitive Programming [here](https://www.google.com)
 - LeetCode : 300+ Problems (Data Structures and Algorithms)
-- Stopstalk Profile : All CP Profiles
+- Stopstalk Profile : All CP Profiles[here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
+- LeetCode : 3 Star ⭐⭐⭐ (Highest Rating - 1542)
+- Codeforces : Newbie
 - CodeChef : 3 Star ⭐⭐⭐ (Highest Rating - 1697)
-- Codeforces : Newbie 🤔
 - AtCoder : 9 Kyu 
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
@@ -47,7 +48,7 @@ ___
 </p>
 
 
-**Languages and Tools:**  
+## Language and Tools 👨‍💻 
 - HTML, CSS and Javascript
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 - PHP and Laravel
