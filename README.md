@@ -20,9 +20,9 @@ ___
 - LeetCode : 300+ Problems (Data Structures and Algorithms)
 - Stopstalk Profile : All CP Profiles[here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
 - LeetCode : 3 Star ⭐⭐⭐ (Highest Rating - 1542)
-- Codeforces : Newbie
+- Codeforces : Newbie (Highest Rating - 1081)
 - CodeChef : 3 Star ⭐⭐⭐ (Highest Rating - 1697)
-- AtCoder : 9 Kyu 
+- AtCoder : 9 Kyu (Highest Rating - 348)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
 
@@ -30,6 +30,10 @@ ___
 
 ## My projects [here](https://kiranpalsingh-projects.netlify.app/)
 - Movie Explorer App
+  - Responsive website
+  - React Hooks and Context API
+  - MovieDB Database 
+  - 
 - Instagram Clone
 - Route Finder App
 - Weather App
