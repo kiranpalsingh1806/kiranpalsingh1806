@@ -52,7 +52,8 @@ ___
 - HTML, CSS and Javascript
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 - PHP and Laravel
-- Django and Angular
+- Django Python
+- ElectronJS (Cross-Platform Desktop Apps)
 
 <br/>
 <a href="https://github.com/kiranpalsingh1806">
