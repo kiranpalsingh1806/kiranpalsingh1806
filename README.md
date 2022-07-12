@@ -17,7 +17,7 @@
 ___  
 
 ## Competitive Programming [here](https://www.google.com)
-- LeetCode : 300+ Problems (Data Structures and Algorithms)
+- LeetCode : 425+ Problems (Data Structures and Algorithms)
 - Stopstalk Profile : All CP Profiles [here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
 - LeetCode : 3 Star ⭐⭐⭐(Highest Rating - 1542)
 - Codeforces : Newbie (Highest Rating - 1081)
@@ -34,8 +34,7 @@ ___
 - Route Finder App    
 - Weather App
 - Firebase Blog Website
-- Actor API
-- Climate News API
+- Actor and Climate News API
 - News Scrapper
 
 ___ 
