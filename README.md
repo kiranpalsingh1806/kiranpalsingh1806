@@ -17,9 +17,9 @@
 ___  
 
 ## Competitive Programming [here](https://www.google.com)
-- LeetCode : 425+ Problems (Data Structures and Algorithms)
+- LeetCode : 500+ Problems (Data Structures and Algorithms)
 - Stopstalk Profile : All CP Profiles [here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
-- LeetCode : 3 Star ⭐⭐⭐(Highest Rating - 1542)
+- LeetCode : 3 Star ⭐⭐⭐(Highest Rating - 1633)
 - Codeforces : Newbie (Highest Rating - 1081)
 - CodeChef : 3 Star ⭐⭐⭐ (Highest Rating - 1697)
 - AtCoder : 9 Kyu (Highest Rating - 348)
