@@ -17,9 +17,9 @@
 ___  
 
 ## Competitive Programming [here](https://www.google.com)
-- LeetCode : 500+ Problems (Data Structures and Algorithms)
+- LeetCode : 550+ Problems (Data Structures and Algorithms)
 - Stopstalk Profile : All CP Profiles [here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
-- LeetCode : 3 Star ⭐⭐⭐(Highest Rating - 1633)
+- LeetCode : 3 Star ⭐⭐⭐(Highest Rating - 1699)
 - Codeforces : Newbie (Highest Rating - 1081)
 - CodeChef : 3 Star ⭐⭐⭐ (Highest Rating - 1697)
 - AtCoder : 9 Kyu (Highest Rating - 348)
@@ -51,9 +51,9 @@ ___
 - HTML, CSS and Javascript
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 - PHP and Laravel
+- Bash Scripting
 - Django Python
 - ElectronJS (Cross-Platform Desktop Apps)
-
 <br/>
 <a href="https://github.com/kiranpalsingh1806">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranpalsingh1806&show_icons=true&theme=light&line_height=27" alt="Kiranpal's github stats"/>
