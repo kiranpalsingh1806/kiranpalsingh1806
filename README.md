@@ -18,9 +18,9 @@ ___
 
 
 ## Language and Tools 👨‍💻 
-- ReactJS ⭐⭐⭐⭐⭐
-- NodeJS ⭐⭐⭐⭐⭐
-- MongoDB ⭐⭐⭐⭐⭐
+- ReactJS
+- NodeJS
+- MongoDB
 - Django
 - ElectronJS
 - CI/CD
