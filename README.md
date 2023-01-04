@@ -16,6 +16,19 @@
 
 ___  
 
+
+## Language and Tools 👨‍💻 
+- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+- PHP and Laravel
+- Bash Scripting
+- Django
+- ElectronJS (Cross-Platform Desktop Apps)
+- CI/CD (Github Actions)
+- Docker
+- Golang
+____
+
+
 ## Competitive Programming [here](https://www.google.com)
 - LeetCode : 600+ Problems (Data Structures and Algorithms)
 - Stopstalk Profile : All CP Profiles [here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
@@ -46,15 +59,6 @@ ___
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
-
-## Language and Tools 👨‍💻 
-- HTML, CSS and Javascript
-- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
-- PHP and Laravel
-- Bash Scripting
-- Django Python
-- ElectronJS (Cross-Platform Desktop Apps)
-<br/>
 <a href="https://github.com/kiranpalsingh1806">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranpalsingh1806&show_icons=true&theme=light&line_height=27" alt="Kiranpal's github stats"/>
 </a>
