@@ -18,7 +18,9 @@ ___
 
 
 ## Language and Tools 👨‍💻 
-- MERN Stack
+- ReactJS ⭐⭐⭐⭐⭐
+- NodeJS ⭐⭐⭐⭐⭐
+- MongoDB ⭐⭐⭐⭐⭐
 - Django
 - ElectronJS
 - CI/CD
