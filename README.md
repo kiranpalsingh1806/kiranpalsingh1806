@@ -18,14 +18,15 @@ ___
 
 
 ## Language and Tools 👨‍💻 
-- MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
-- PHP and Laravel
-- Bash Scripting
+- MERN Stack
 - Django
-- ElectronJS (Cross-Platform Desktop Apps)
-- CI/CD (Github Actions)
+- ElectronJS
+- CI/CD
 - Docker
 - Golang
+- PHP and Laravel
+- Bash Scripting
+- Redis
 ____
 
 
