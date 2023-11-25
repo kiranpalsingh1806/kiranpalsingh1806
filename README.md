@@ -45,14 +45,16 @@ ____
 
 ___
 
-## My projects [here](https://kiranpalsingh-projects.netlify.app/)
-- Movie Explorer App   
-- Instagram Clone   
-- Route Finder App    
-- Weather App
-- Firebase Blog Website
-- Actor and Climate News API
-- News Scrapper
+## My Websites
+- kiranpalsingh.in [Website](https://kiranpalsingh.in)
+- upscinfact.in [Website](https://upscinfact.in)
+- progrespulse.in [Website](https://progresspulse.in)
+- studencity.in [Website](https://studencity.in)
+- pomodoro.studencity.in [Website](https://pomodoro.studencity.in)
+
+## My Android Apps
+- UPSC inFact - Android App [Play Store](https://play.google.com/store/apps/details?id=com.kiranpalsingh.upscinfact)
+- GK inFact - Android App [Play Store](https://play.google.com/store/apps/details?id=com.kiranpalsingh.gkinfact)
 
 ___ 
 
