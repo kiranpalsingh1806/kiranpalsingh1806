@@ -46,11 +46,11 @@ ____
 ___
 
 ## My Websites
-- kiranpalsingh.in [Website](https://kiranpalsingh.in)
-- upscinfact.in [Website](https://upscinfact.in)
-- progrespulse.in [Website](https://progresspulse.in)
-- studencity.in [Website](https://studencity.in)
-- pomodoro.studencity.in [Website](https://pomodoro.studencity.in)
+- kiranpalsingh.in - [Link](https://kiranpalsingh.in)
+- upscinfact.in - [Link](https://upscinfact.in)
+- progrespulse.in - [Link](https://progresspulse.in)
+- studencity.in - [Link](https://studencity.in)
+- pomodoro.studencity.in - [Link](https://pomodoro.studencity.in)
 
 ## My Android Apps
 - UPSC inFact - Android App [Play Store](https://play.google.com/store/apps/details?id=com.kiranpalsingh.upscinfact)
