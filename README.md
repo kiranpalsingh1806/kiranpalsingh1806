@@ -8,7 +8,7 @@
 - Experienced making website with 🪐 MERN Stack.
 - Enjoy doing 🏆 Competitive Programming(CodeChef, Codeforces, AtCoder).
 - Currently working on 🎓 [my skills](https://kiranpalsingh-projects.netlify.app/).
-- Looking forward for more contribution 🔥 in 2023.
+- Looking forward for more contribution 🔥 in 2024.
 - I like playing ⚽ Football.
 
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
@@ -34,7 +34,7 @@ ____
 
 
 ## Competitive Programming [here](https://www.google.com)
-- LeetCode : 600+ Problems (Data Structures and Algorithms)
+- LeetCode : 700+ Problems (Data Structures and Algorithms)
 - Stopstalk Profile : All CP Profiles [here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
 - LeetCode : 3 Star ⭐⭐⭐(Highest Rating - 1731) (Top 10.16%)
 - Codeforces : Newbie (Highest Rating - 1081)
