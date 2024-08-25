@@ -9,7 +9,7 @@
 - Enjoy doing 🏆 Competitive Programming(CodeChef, Codeforces, AtCoder).
 - Currently working on 🎓 [my skills](https://kiranpalsingh-projects.netlify.app/).
 - Looking forward for more contribution 🔥 in 2024.
-- I like playing ⚽ Football.
+- I like playing ⚽ Football and 🏐 Volleyball.
 
 [![Linkedin: kiranpalsingh1806](https://img.shields.io/badge/-kiranpalsingh1806-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiranpalsingh1806/)](https://www.linkedin.com/in/kiranpalsingh1806/)
 [![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/kiranpalsingh1806)
@@ -30,6 +30,8 @@ ___
 - Bash Scripting
 - Redis
 - Web Sockets
+- Jetpack Compose
+- Kotlin
 ____
 
 
