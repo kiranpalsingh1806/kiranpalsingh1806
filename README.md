@@ -71,5 +71,5 @@ ___
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranpalsingh1806&show_icons=true&theme=light&line_height=27" alt="Kiranpal's github stats"/>
 </a>
 
-## I love [Ted Talks](https://www.youtube.com/playlist?list=PLtJqpRMKtkgzZmnZGD5nLK3xq1tgnrbZv)
+## I love [TED Talks](https://www.youtube.com/playlist?list=PLtJqpRMKtkgzZmnZGD5nLK3xq1tgnrbZv)
 
