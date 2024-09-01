@@ -6,7 +6,7 @@
 <br/> 
 
 - Experienced making website with 🪐 MERN Stack.
-- Enjoy doing 🏆 Competitive Programming(CodeChef, Codeforces, AtCoder).
+- Enjoy doing 🏆 Competitive Programming(CodeChef , Codeforces, AtCoder).
 - Currently working on 🎓 [my skills](https://kiranpalsingh-projects.netlify.app/).
 - Looking forward for more contribution 🔥 in 2024.
 - I like playing ⚽ Football and 🏐 Volleyball.
